@@ -1,4 +1,4 @@
-package edu.sti.myfirstapp;
+package com.example.sagitarius_a.myapplication;
 
 import org.junit.Test;
 
